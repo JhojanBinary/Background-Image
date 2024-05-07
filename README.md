@@ -1,4 +1,4 @@
-# CSS-8 - REPASO
+# Background Image
 
 En este proyecto utilizaremos principalmente los fondos
 
